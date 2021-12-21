@@ -18,7 +18,7 @@
 메뉴는 한식, 분식, 일식, 중식, 세계음식, 카페, 양식 총 7가지이다.
 사이트에서 노원에 있는 각 메뉴의 음식점의 조회수와 리뷰수를 1페이지부터 끝페이지까지 모두 크롤링한 후 csv 파일로 저장한다.
 csv 파일에는 메뉴종류, 상호명, 조회수, 리뷰수의 정보가 들어있다.    
-<img src="https://user-images.githubusercontent.com/91138656/146917926-085c021b-3f82-4e50-afdf-fad721275cdf.png" width=200, height=200> <img src="https://user-images.githubusercontent.com/91138656/146917917-c183c70f-6c14-4cf2-a1b6-1545098b674f.png" width=200, height=200>
+<img src="https://user-images.githubusercontent.com/91138656/146917926-085c021b-3f82-4e50-afdf-fad721275cdf.png" width=200, height=200> <img src="https://user-images.githubusercontent.com/91138656/146917917-c183c70f-6c14-4cf2-a1b6-1545098b674f.png" width=250, height=200>
 
 * 모든 데이터 합치기    
 각 메뉴별로 저장된 csv 파일의 내용을 하나의 all_data.csv 파일로 데이터를 합친다.
