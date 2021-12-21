@@ -48,5 +48,4 @@ main.py에서 각 메뉴별 조회수와 리뷰수, 전체 메뉴에 대한 조�
 
 ### 참고사이트
 [파이썬 다음-뉴스 크롤링하기](https://jvvp.tistory.com/1138)    
-
 [파이썬으로 csv 파일 합치기](https://onebeat.tistory.com/57)
